@@ -16,7 +16,6 @@ Simple C++ PBT Library of Joy. EZ.
 ### Automatically generated input generators (Add numbers)
 ```cpp
 #include <iostream>
-#include <algorithm>
 #include <cstdlib>
 #include <joy/all.hpp>
 
